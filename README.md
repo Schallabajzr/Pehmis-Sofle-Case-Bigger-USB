@@ -7,6 +7,7 @@
 
 <img src="https://via.placeholder.com/800x450.jpg" alt="header" width="800"/>
 Placeholder image
+
 ---
 
 ### --> [Original Sofle keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
