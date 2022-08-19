@@ -1,16 +1,17 @@
+
 # Sofle v2 case
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-### A 3D printed, seamless top-mount case for the Sofle v2 keyboard
+### A 3D printed, seamless case with magnetic wrist rests for the Sofle v2 keyboard
 
 <img src="https://i.imgur.com/DuShcFz.jpg" alt="header" width="800"/>
 
 ---
 
 ### --> [Original Sofle keyboard repository](https://github.com/josefadamcik/SofleKeyboard)
+### --> [Original Elmo Case Repository](https://github.com/kb-elmo/SofleCase)
 
-You can find multiple different PCB variants over there.  
 Please note that only the v2 layout versions are compatible with this case.
 
 ---
@@ -18,30 +19,42 @@ Please note that only the v2 layout versions are compatible with this case.
 #### Assembly materials needed:
 
 - 10x m2x10mm screws for the cases
-- 8x m2x6mm screws for the plates
-- 8x 6mm rubber bumpons (optional)
+- 20x m2x4mm screws for the plates
+- 10x m2x8mm standoffs for the pcbs
+- 10x m2x4x3.5 threaded inserts **OR** m2 nuts to screw the bottom case to the top
+- 16x 8mm rubber bumpons (optional)
+- 8x 8x3mm magnets to attach wrist rests (optional)
+
+#### Changes to Elmo's original case:
+- Added magnetically attached wrist rests
+- Raised the top of the case by 1mm to look nicer with cherry profile caps.
+- Moved usb port holes and made more space inside to fit a socketed regular pro micro instead of elite-c.
+- Changed to "tray mount" style to allow use with a normal plate from a sofle kit instead of a printed one.
+- Removed rgbled-strip channels on the bottom. Depending on the size of your strips you might still be able to fit some under the pcb.
+- Added holes for threaded inserts/nuts to avoid screwing the bottom into bare plastic.
+- Modified knob to work with raised case and plum style encoder shaft.
+- Enlarged reset button holes
+- Enlarged rubber bumpon pads to fit 8mm bumpons.
+
+
 
 
 #### Please note:  
 
-- This case was designed to be used with the Elite-C or Puchi-C controller!  
-The USB connector holes in the back of the case would not work properly with a standard ProMicro.
 - The two case halves are not symmetrical!  
 Just using one of the files and mirroring it in your slicer will not work.  
 The holes for the TRRS cable are in slightly different locations on the two sides.
 - The reset switch on both sides of the board should ideally be mounted on the bottom of the PCB.  
 That way you can press the button through the hole in the bottom of the case without having to disassemble the entire board.
-- The included knob is designed for the Alps EC11E15244G1 encoder.  
+- The included knob is designed for the Alps EC11 encoder with a 15mm tall plum shaft.  [Such as this one.](https://www.aliexpress.com/item/32873198060.html?spm=a2g0o.cart.0.0.681a38da9pBn85&mp=1)
 If you are using a different model you might have to use a different knob for your board.
-- The cutouts in the bottom pieces are meant for RGB strips.  
-If you print the bottoms out of a clear filament you will get a very nice and even underglow effect.  
-(as shown in the picture above) 
+
 
 
 #### Special Thanks to 
 
 - Josef Adamcik for designing the original Sofle keyboard and making the project open source
-- the "komische Tastaturen" gang of the german keyboard community that pushed me into making this
+- kb-elmo for making the original version of this case and sharing the step files.
 
 ---
 
