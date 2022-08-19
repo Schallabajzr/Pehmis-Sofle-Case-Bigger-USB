@@ -5,7 +5,7 @@
 
 ### A 3D printed, seamless case with magnetic wrist rests for the Sofle v2 keyboard
 
-<img src="https://via.placeholder.com/800x450.jpg" alt="header" width="800"/>
+<img src="https://via.placeholder.com/800x450.jpg" alt="header" width="1000"/>
 Placeholder image while i wait for components
 
 ---
