@@ -19,12 +19,12 @@ Please note that only the v2 layout versions are compatible with this case.
 
 #### Assembly materials needed:
 
-- 10x m2x10mm screws for the cases
-- 20x m2x4mm screws (if you ordered a sofle kit these are included)
-- 10x m2x8mm standoffs (if you ordered a sofle kit these are included)
-- 10x m2x4x3.5 threaded inserts **OR** m2 nuts to screw the bottom case to the top
-- 16x 8mm rubber bumpons (optional)
-- 8x 8x3mm magnets to attach wrist rests (optional)
+- **10x** m2x10mm screws for the cases
+- **20x** m2x4mm screws for the plates
+- **10x** m2x8mm standoffs for the pcbs
+- **10x** m2x4x3.5 threaded inserts **OR** m2 nuts to screw the bottom case to the top
+- **16x** 8mm rubber bumpons (optional)
+- **8x** 8x3mm magnets to attach wrist rests (optional)
 
 #### Changes to Elmo's original case:
 - Added magnetically attached wrist rests
