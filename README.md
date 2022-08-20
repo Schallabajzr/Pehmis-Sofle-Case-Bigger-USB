@@ -44,7 +44,7 @@ Please note that only the v2 layout versions are compatible with this case.
 
 - The two case halves are not symmetrical!  
 Just using one of the files and mirroring it in your slicer will not work.  
-The holes for the TRRS cable are in slightly different locations on the two sides.
+The holes for the TRRS and usb cables are in slightly different locations on the two sides.
 - The reset switch on both sides of the board should ideally be mounted on the bottom of the PCB.  
 That way you can press the button through the hole in the bottom of the case without having to disassemble the entire board.
 - The included knob is designed for the Alps EC11 encoder with a 15mm tall plum shaft.  [Such as this one.](https://www.aliexpress.com/item/32873198060.html?spm=a2g0o.cart.0.0.681a38da9pBn85&mp=1)
