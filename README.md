@@ -32,7 +32,7 @@ Please note that only the v2 layout versions are compatible with this case.
 - Moved usb port holes and made more space inside to fit a socketed regular pro micro instead of elite-c.
 - Changed to "tray mount" style to allow use with a normal plate from a sofle kit instead of a printed one.
 - Removed rgbled-strip channels on the bottom. Depending on the size of your strips you might still be able to fit some under the pcb.
-- Added holes for nuts to avoid screwing the bottom into bare plastic. You probably want to glue these into place to make assebly easier.
+- Added holes for nuts to avoid screwing the bottom into bare plastic. You probably want to glue these into place to make assembly easier.
 - Modified knob to work with raised case and plum style encoder shaft.
 - Enlarged reset button holes
 - Enlarged rubber bumpon pads to fit 8mm bumpons.
