@@ -1,9 +1,9 @@
 
-# Pehmis Sofle v2 case
+# Pehmis Sofle V2 case
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-### A 3D printed, seamless case with magnetic wrist rests for the Sofle v2 keyboard
+### A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 
 <img src="https://i.imgur.com/Jh16nOZ.jpeg" alt="header" width="1000"/>
 
