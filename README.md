@@ -1,5 +1,5 @@
 
-# Sofle v2 case
+# Pehmis Sofle v2 case
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
