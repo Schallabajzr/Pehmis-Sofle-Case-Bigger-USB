@@ -68,7 +68,12 @@ These files are meant for 3D printing only!
 They are not suitable for CNC machining and trying to use them for that will most likely result in unusable parts.
 
 ---
+Exploded view
+---
 
+![Alt text](../../../../C:/Users/Otto/Pehmis-Sofle-Case/_Images/render1.png)
+
+---
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
