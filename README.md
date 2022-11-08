@@ -71,7 +71,7 @@ They are not suitable for CNC machining and trying to use them for that will mos
 Exploded view
 ---
 
-![Alt text](../../../../C:/Users/Otto/Pehmis-Sofle-Case/_Images/render1.png)
+![](_Images/render1.png)
 
 ---
 This work is licensed under a
