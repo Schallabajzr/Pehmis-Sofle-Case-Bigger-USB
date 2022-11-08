@@ -5,7 +5,7 @@
 
 ### A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 
-<img src="https://i.imgur.com/Jh16nOZ.jpeg" alt="header" width="1000"/>
+![](_Images/sofle1.png)
 
 
 ---
@@ -17,30 +17,33 @@ Please note that only the v2 layout versions are compatible with this case.
 
 ---
 
-#### Assembly materials needed:
+Assembly materials needed:
+---
 
-- **10x** m2x10mm screws for the cases
-- **20x** m2x4mm screws for the plates (If you bought a sofle kit these should be included)
-- **10x** m2x8mm standoffs for the pcbs (If you bought a sofle kit these should be included)
-- **10x** m2 nuts to screw the bottom case to the top
-- **16x** 8mm rubber bumpons (optional)
-- **8x** 8x3mm magnets to attach wrist rests (optional)
+- **10x** m2x10mm screws for the cases.
+- **20x** m2x4mm screws for the plates (If you bought a sofle kit these should be included).
+- **10x** m2x8mm standoffs for the pcbs (If you bought a sofle kit these should be included).
+- **10x** m2 nuts to screw the bottom case to the top.
+- **16x** 8mm rubber bumpons (optional).
+- **8x** 8x3mm magnets to attach wrist rests (optional).
 
-#### Changes to Elmo's original case:
-- Added magnetically attached wrist rests
+Changes to Elmo's original case:
+---
+- Added magnetically attached wrist rests.
 - Raised the top of the case by 1mm to look nicer with cherry profile caps.
 - Moved usb port holes and made more space inside to fit a socketed regular pro micro instead of elite-c.
 - Changed to "tray mount" style to allow use with a normal plate from a sofle kit instead of a printed one.
 - Removed rgbled-strip channels on the bottom. Depending on the size of your strips you might still be able to fit some under the pcb.
 - Added holes for nuts to avoid screwing the bottom into bare plastic. You probably want to glue these into place to make assembly easier.
 - Modified knob to work with raised case and plum style encoder shaft.
-- Enlarged reset button holes
+- Enlarged reset button holes.
 - Enlarged rubber bumpon pads to fit 8mm bumpons.
 
 
 
 
-#### Please note:  
+Please note:  
+---
 
 - The two case halves are not symmetrical!  
 Just using one of the files and mirroring it in your slicer will not work.  
@@ -52,14 +55,15 @@ If you are using a different model you might have to use a different knob for yo
 
 
 
-#### Special Thanks to 
+Special Thanks to
+---
 
-- Josef Adamcik for designing the original Sofle keyboard and making the project open source
+- Josef Adamcik for designing the original Sofle keyboard and making the project open source.
 - kb-elmo for making the original version of this case and sharing the step files.
 
 ---
 
-### These files are meant for 3D printing only! 
+These files are meant for 3D printing only! 
 
 They are not suitable for CNC machining and trying to use them for that will most likely result in unusable parts.
 
