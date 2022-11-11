@@ -52,6 +52,7 @@ The holes for the TRRS and usb cables are in slightly different locations on the
 That way you can press the button through the hole in the bottom of the case without having to disassemble the entire board.
 - The included knob is designed for the Alps EC11 encoder with a 15mm tall plum shaft.  [Such as this one.](https://www.aliexpress.com/item/1005002767327743.html)
 If you are using a different model you might have to use a different knob for your board.
+- Red colored faces in the files indicate suggested build orientation. Red toward bed.
 
 
 
