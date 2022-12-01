@@ -20,15 +20,17 @@ Please note that only the v2 layout versions are compatible with this case.
 Assembly materials needed:
 ---
 
-- **10x** m2x10mm screws for the cases.
+- **10x** m2x8mm screws for the cases.
 - **20x** m2x4mm screws for the plates (If you bought a sofle kit these should be included).
 - **10x** m2x8mm standoffs for the pcbs (If you bought a sofle kit these should be included).
+- **10x** m2x4x3.5mm heat-set threaded inserts to screw the cases together.
 - **16x** 8mm rubber bumpons (optional).
 - **8x** 8x3mm magnets to attach wrist rests (optional).
 
 Changes to Elmo's original case:
 ---
 - Added magnetically attached wrist rests.
+- Added holes for heat-set threaded inserts to avoid screwing the case bottoms into bare plastic.
 - Raised the top of the case by 1mm to look nicer with cherry profile caps.
 - Moved usb port holes and made more space inside to fit a socketed regular pro micro instead of elite-c.
 - Changed to "tray mount" style to allow use with a normal plate from a sofle kit instead of a printed one.
@@ -36,8 +38,6 @@ Changes to Elmo's original case:
 - Modified knob to work with raised case and plum style encoder shaft.
 - Enlarged reset button holes.
 - Enlarged rubber bumpon pads to fit 8mm bumpons.
-
-
 
 
 Please note:  
@@ -50,8 +50,17 @@ The holes for the TRRS and usb cables are in slightly different locations on the
 That way you can press the button through the hole in the bottom of the case without having to disassemble the entire board.
 - The included knob is designed for the Alps EC11 encoder with a 15mm tall plum shaft.  [Such as this one.](https://www.aliexpress.com/item/1005002767327743.html)
 If you are using a different model you might have to use a different knob for your board.
-- Red colored faces in the files indicate suggested build orientation. Red toward bed.
+- 3MF files are oriented for best print results and don't require supports.
 
+
+Assembly instructions:
+---
+1. Assemble the Sofle keyboard like you would normally, but don't screw the fr4/acrylic bottom on. 
+2. Instead screw the keyboard halves into `Left-Bottom` and `Right-Bottom` respectively with the `m2x4mm` screws.
+3. Install the heat-set threaded inserts into the holes in `Left-Top` and `Right-Top`.
+4. Slot the case bottoms into the tops, and screw together with the `m2x8mm` screws.
+5. Install `Knob-X2` into the encoders.
+6. Glue the `8x3mm` magnets into the holes in `Left-Top`, `Right-Top`, `Left-Wristrest` and `Right-Wristrest`
 
 
 Special Thanks to
