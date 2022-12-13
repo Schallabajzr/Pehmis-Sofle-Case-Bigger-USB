@@ -1,7 +1,7 @@
 
 # Pehmis Sofle V2 case
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="Licence" height="25"/></a><a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate button" align="right" height="25"/></a>
 
 ### A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 
@@ -76,11 +76,9 @@ They are not suitable for CNC machining and trying to use them for that will mos
 
 ---
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+_Licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]._
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://github.com/andreostrovsky/donate-with-paypal/raw/master/dark.svg" alt="Donate button" width="400px"></a>
