@@ -3,7 +3,7 @@
 
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="Licence" height="25"/></a><a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate button" align="right" height="25"/></a>
 
-### A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
+A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 
 ![](_Images/sofle1.png)
 
