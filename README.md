@@ -13,7 +13,7 @@ A 3D printed, seamless case with magnetic wrist rests for the Sofle V2 keyboard
 
 ### --> [Original Elmo Case Repository](https://github.com/kb-elmo/SofleCase)
 
-Please note that only the v2 layout versions are compatible with this case.
+**Please note that only the v2.0 and 42keebs V2.1 versions are compatible with this case. The V2.1 Sofle with per-key RGB is not compatible.**
 
 ---
 
@@ -35,7 +35,7 @@ Please note that only the v2 layout versions are compatible with this case.
 * Changed to "tray mount" style to allow use with a normal plate from a sofle kit instead of a printed one.
 * Removed rgbled-strip channels on the bottom. Depending on the size of your strips you might still be able to fit some under the pcb.
 * Modified knob to work with raised case and plum style encoder shaft.
-* Enlarged reset button holes.
+* Enlarged reset button holes and added a second pair to work with 42keebs V2.1 kit.
 * Enlarged rubber bumpon pads to fit 8mm bumpons.
 
 ## Please note
